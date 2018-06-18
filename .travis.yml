@@ -1,7 +1,7 @@
 # .travis.yml file
 language: node_js
 node_js:
-  - 7
+  - "7"
 services:
   - mongodb
 install:
